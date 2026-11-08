@@ -26,11 +26,18 @@ Questions, ideas or bugs? Come say hi on [Discord](https://discord.gg/dEws4Sq9wV
 
 ![Match scoreboard](screenshots/scoreboard.png)
 
-**Discord match recaps:** a recap of each game posted to your Discord channel, with a scoreboard picture.
+**Discord match recaps:** a recap of each game posted to your Discord channel, with a scoreboard picture, rank ups and big rounds (aces, 4Ks, clutches).
 
 ![Discord match recap](screenshots/discord-recap.png)
 
 <sub>Screenshots use demo data and made-up players.</sub>
+
+## Educational purposes
+
+Daily Tracker is made for educational purposes: a personal project about how a desktop companion app can read and
+present your own VALORANT data. It's provided as is, without warranty. A few optional features, marked red in the
+app, may violate Riot's Terms of Service; they're off by default, and turning them on is your choice and at your
+own risk.
 
 Daily Tracker isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone
 officially involved in producing or managing Riot Games properties. Riot Games, VALORANT and all associated

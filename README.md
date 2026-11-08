@@ -1,4 +1,6 @@
-# Daily Tracker
+<p align="center"><img src="logo.png" alt="Daily Tracker logo" width="128"></p>
+
+<h1 align="center">Daily Tracker</h1>
 
 A private VALORANT stats companion for Windows: your rank and RR, matches, stats, lockers for all your accounts,
 crosshairs, Discord match recaps and more. It runs only on your PC.
